@@ -1,0 +1,3 @@
+username,password,expectedMessage
+nume.prenume@yahoo.com,horror,Eroare: Datele de autentificare sunt greşite!
+nume.prenume@gmail.com,,Eroare: Datele de autentificare sunt greşite!
